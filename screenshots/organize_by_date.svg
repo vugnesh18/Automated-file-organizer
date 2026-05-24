@@ -1,0 +1,11 @@
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#111827"/>
+  <rect x="24" y="24" width="752" height="402" rx="16" fill="#0f172a" stroke="#475569" stroke-width="2"/>
+  <text x="55" y="70" fill="#f8fafc" font-family="Segoe UI, sans-serif" font-size="28" font-weight="700">Organize by Date</text>
+  <text x="55" y="120" fill="#e2e8f0" font-family="Segoe UI, sans-serif" font-size="18">2024/</text>
+  <text x="85" y="150" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">01 - January/ file1.pdf</text>
+  <text x="85" y="180" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">02 - February/ file2.jpg</text>
+  <text x="55" y="230" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">2023/</text>
+  <text x="85" y="260" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">12 - December/ old_file.txt</text>
+  <text x="55" y="320" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="16">Created Year/Month directories from file timestamps.</text>
+</svg>

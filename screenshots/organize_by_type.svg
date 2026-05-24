@@ -1,0 +1,11 @@
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0f172a"/>
+  <rect x="24" y="24" width="752" height="402" rx="16" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <text x="55" y="70" fill="#f8fafc" font-family="Segoe UI, sans-serif" font-size="28" font-weight="700">Organize by Type</text>
+  <text x="55" y="120" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">Scanning folder: ~/Documents</text>
+  <text x="55" y="160" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">Documents: 5 files</text>
+  <text x="55" y="190" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">Images: 8 files</text>
+  <text x="55" y="220" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">Videos: 2 files</text>
+  <text x="55" y="250" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">Archives: 1 file</text>
+  <text x="55" y="310" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="16">Organized files copied to category folders.</text>
+</svg>

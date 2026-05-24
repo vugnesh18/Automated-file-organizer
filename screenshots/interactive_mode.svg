@@ -1,0 +1,11 @@
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1f2937"/>
+  <rect x="24" y="24" width="752" height="402" rx="16" fill="#111827" stroke="#4b5563" stroke-width="2"/>
+  <text x="55" y="70" fill="#f9fafb" font-family="Segoe UI, sans-serif" font-size="28" font-weight="700">Automated File Organizer</text>
+  <text x="55" y="120" fill="#d1d5db" font-family="Segoe UI, sans-serif" font-size="20">Select organization method:</text>
+  <text x="75" y="155" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">1. Organize by file type (extension)</text>
+  <text x="75" y="185" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">2. Organize by date</text>
+  <text x="75" y="215" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">3. Organize by file size</text>
+  <text x="75" y="245" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="18">4. Exit</text>
+  <text x="55" y="315" fill="#9ca3af" font-family="Segoe UI, sans-serif" font-size="16">Press a key to select an option.</text>
+</svg>
