@@ -1,3 +1,6 @@
+## Intern Details
+- Name: BHANU VIGNESH
+- InternID:CITS1394 
 # Automated File Organizer
 
 A flexible, configurable Python application for automatically organizing files based on various criteria including file type, date created, and file size.
